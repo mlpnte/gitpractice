@@ -78,5 +78,4 @@ git config --global alias.br "branch"
 ```
 ---
 
-3. This is a fake edit
-4. This is another fake edit (8/17/23) 
+Fresh start (8/17)
